@@ -3,7 +3,7 @@
 DigiTools is a modern, responsive marketplace interface built with React for showcasing digital products. It allows users to browse tools, add items to a cart, remove them, and complete a simple checkout flow with instant feedback.
 
 ---
-Live Link: https://lovely-paprenjak-a76b20.netlify.app/
+Live Link: https://digitools3.netlify.app/
 
 ## 🚀 Tech Stack
 
